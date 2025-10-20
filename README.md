@@ -18,14 +18,14 @@ _"Transforming raw data into powerful insights & intelligent systems"_
 
 ## 🧠 About Me  
 
-💡 Passionate about **data, AI, and system automation**, I love designing end-to-end data ecosystems — from ingestion and transformation to analytics and visualization.  
+Passionate about **data, AI, and system automation**, I love designing end-to-end data ecosystems — from ingestion and transformation to analytics and visualization.  
 
-🎓 Graduated in **Business Intelligence** at **IHEC Carthage**, I’ve built a complete **Data Warehouse & BI System for COMAR Assurance**, integrating **SSIS, SQL Server, Power BI**, and a **React + Firebase** admin dashboard.  
+Graduated in **Business Intelligence** at **IHEC Carthage**, I’ve built a complete **Data Warehouse & BI System for COMAR Assurance**, integrating **SSIS, SQL Server, Power BI**, and a **React + Firebase** admin dashboard.  
 
-⚙️ My main focus areas:
+My main focus areas:
 **Data Engineering · Machine Learning · Business Intelligence · Software Architecture**
 
-🧩 I enjoy turning raw data into meaningful insights — **bridging business logic with engineering precision.**
+I enjoy turning raw data into meaningful insights — **bridging business logic with engineering precision.**
 
 ---
 
