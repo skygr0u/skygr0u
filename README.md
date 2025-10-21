@@ -122,9 +122,9 @@ I enjoy turning raw data into meaningful insights — **bridging business logic 
 ### 🐍 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skygr0u/README-Profile/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skygr0u/README-Profile/output/snake-light.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/skygr0u/README-Profile/output/snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skygr0u/skygr0u/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skygr0u/skygr0u/output/snake-light.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/skygr0u/skygr0u/output/snake.svg" />
 </picture>
 
 </div>
